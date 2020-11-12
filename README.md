@@ -16,6 +16,12 @@ O Banco de dados, pedirmos que utilize mongoDb ou Firebase, de preferência ambo
 
 Altere o arquivo README explicando o que é preciso para rodar sua aplicação.
 
+# Teste de lógica
+1. Inserir 2 campos na tela: Nome, E-mail.
+2. Inserir um botão de Adicionar. Ao clicar deverar adicionar outro bloco com Nome e E-mail. 
+3. Inserir um botão de Remover. Ao clicar deverar remover o ultimo bloco adicionado. 
+4. Inserir um campo de salvar. Ao clicar em salvar, validar que todos os campos da tela estão preenchidos. Salvar no mongo e/ou firebase cada bloco como um novo documento da collections Usuarios.
+
 # API
 A API precisa ser desenvolvida em Node.JS, e deverá ser possível:
 
